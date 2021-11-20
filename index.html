@@ -1,12 +1,143 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Personal Bio</title>
-</head>
-<body>
-    <h1>Booyah!</h1>
-    <h2>A second line</h2>
-</body>
+<!doctype html>
+<html>
+  <head>
+      <meta charset="utf-8">
+      <meta name="description" content="">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Bruce M. Van Horn II - Software & DevOps Professional</title>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900" rel="stylesheet">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/railscasts.min.css">
+      <link rel="stylesheet" href="global.css">
+      <link rel="stylesheet" href="landing.css">
+  </head>
+  <body>
+    <nav>
+      <div class="logo"></div>
+      <ul class="menu">
+        <div class="menu__item toggle"><span></span></div>
+        <li class="menu__item"><a href="doc.html" class="link link--dark"><i class="fa fa-book"></i> Documentation</a></li>
+        <li class="menu__item"><a href="" class="link link--dark"><i class="fa fa-github"></i> Github</a></li>
+      </ul>
+    </nav>
+    <div class="hero">
+      <h1 class="hero__title">Bruce M. Van Horn II</h1>
+      <p class="hero__description">Senior Software Developer and Development Operations Professional</p>
+    </div>
+    <div class="hero__terminal">
+      <pre>
+        <!-- demo code here -->
+        <code class="shell-session demo">h4x0r ~ $ </code>
+      </pre>
+    </div>
+    <div class="wrapper">
+      <div class="installation">
+        <h3 class="section__title">Installation</h3>
+        <div class="tab__container">
+          <ul class="tab__menu">
+            <li class="tab active" data-tab="mac">mac</li>
+            <li class="tab" data-tab="linux">linux</li>
+            <li class="tab" data-tab="win">win</li>
+          </ul>
+          <pre class="nohighlight code">
+            <code class="tab__pane active mac">$  brew install bruce-van-horn-2</code>
+            <code class="tab__pane linux">$  apt-get install bruce-van-horn=2.0.0</code>
+            <code class="tab__pane win">$ choco install bruce-van-horn-2</code>
+          </pre>
+        </div>
+      </div>
+      <div class="feature">
+        <div class="feature__item">
+          <h3 class="section__title">Highly Experienced</h3>
+          <p>I have over 30 years of industry experience.  I've written everything from military flight simulators to desktop, mobile, and web apps.  Many of my projects have won awards or patents.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Award Winning</h3>
+          <p>Save your file in Dropbox then you can access to it from anywhere.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Published</h3>
+          <p>Encrypt your notes optionally. No one can get to your secrets! </p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Legendary Mentor</h3>
+          <p>Maintain all your settings in a single <span class="code code--inline">config.json</span> file. Never need to redo the setting every single time jotting down a note.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Customer Focused</h3>
+          <p>For better readability, scribbler has a clean, beautiful color scheme allow you to scan files fast.</p>
+        </div>
+        <div class="feature__item">
+          <h3 class="section__title">Proven Leadership</h3>
+          <p>You can expect common keybindings for scribbler. Customize <span class="code code--inline">bindings.json</span> for your own liking! </p>
+        </div>
+      </div>
+      
+    </div>
+    <div class="changelog">
+      <div class="wrapper">
+        <h3 class="section__title">Employment Changelog</h3>
+        <div class="changelog__item">
+          <div class="changelog__meta">
+            <h4 class="changelog__title">Clear Technologies</h4>
+            <h5>Lead Software Developer / DevOps</h5>
+            <small class="changelog__date">2013-Present</small>
+          </div>
+          <div class="changelog__detail">
+            <ul>
+                <li>We develop an award-winning analytical tool for middle-tier enterprise storage systems and IT infrastructure from all major equipment vendors</li>
+                <li>Technical lead for a growing software engineering team</li>
+                <li>I developed cloud solutions in Azure and AWS as well as on-premises IT infrastructure with Linux, Docker, and VMWare</li>
+                <li>I built our deployment pipeline using Team City and Octopus Deploy</li>
+                <li>I developed the architecture for the current product and wrote 80% of the code for the product in Python and JavaScript (React)</li>
+                <li>I created very innovative user experience for our product using React</li>
+                <li>I maintain a variety of existing projects in C#</li>
+                <li>Given it’s an analytical tool, I have extensive experience writing complex SQL queries and procedures as well as NoSQL experience with MongoDB and Redis</li>
+                <li>The product is a SaaS offering which leverages cloud services and VMWare</li>
+                <li>I was awarded “Innovator of the Year”, 2015</li>
+                <li>My product was awarded “Top 10 Most Promising Storage Products” in 2016 by CIO Magazine.</li>
+            </ul>
+          </div>
+        </div>
+        <div class="changelog__item">
+          <div class="changelog__meta">
+            <h4 class="changelog__title">Southern Methodist University</h4>
+            <h6>Lead Instructor, SMU Full Stack Bootcamp</h6>
+            <small class="changelog__date">2017 - Present</small>
+          </div>
+          <div class="changelog__detail">
+            <ul>
+                <li>Delivered engaging course lectures</li>
+                <li>Facilitated in-class exercises</li>
+                <li>We teach the Mongo, Express, React, Node (MERN) stack in a comprehensive six month course</li>
+                <li>Managed 2-4 teaching assistants depending on enrollment</li>
+                <li>Consistently maintained a net promoter score over 80% (one of the highest in the US)</li>
+            </ul>
+          </div>
+        </div>
+        <div class="changelog__item">
+          <div class="changelog__meta">
+            <h4 class="changelog__title">ACCESS Systems</h4>
+            <h6>Lead Developer, Marine Ammunition Knowledge Enterprise (MAKE)</h6>
+            <small class="changelog__date">2011 - 2013</small>
+          </div>
+          <div class="changelog__detail">
+            <ul>
+                <li>Developed custom extensions for the DotNetNuke (DNN) content management system</li>
+                <li>Developed SQL queries in TSQL to support development efforts</li>
+                <li>Mentored Junior Developers</li>
+                <li><span class="punch-it">Won the Navy’s IS&T award for outstanding contributions to the US Navy’s IT operations</span></li>
+            </ul>
+          </div>
+        </div>
+        <div class="changelog__callout">
+          <a href="#" class="button--secondary">Checkout Full Log</a>
+        </div>
+      </div>
+    </div>
+    <footer class="footer">Bruce Van Horn can be most effectively contacted via <a href="https://www.linkedin.com/brucevanhorn2" target="_blank" class="link link--light">LinkedIn</a>.</footer>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+    <script src="resume-awesomness.js"></script>
+  </body>
 </html>
