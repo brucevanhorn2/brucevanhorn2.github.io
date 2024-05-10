@@ -301,7 +301,20 @@ table td:first-child {
   padding: 2rem;
   color: white;
 }
+ul {
+  list-style-type: none; /* Remove default bullets */
+  padding-left: 20px; /* Adjust as needed */
+}
 
+ul > li {
+  position: relative;
+}
+
+ul > li::before {
+  content: "λ ";
+  position: absolute;
+  left: -15px;
+}
 @keyframes fadeUp {
   0% {
     opacity: 0;
