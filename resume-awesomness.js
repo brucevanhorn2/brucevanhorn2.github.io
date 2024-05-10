@@ -16,7 +16,9 @@ if (document.getElementsByClassName('demo').length > 0) {
             Reading job requirements... Done
             Building dependency tree... Done
             Reading state information... Done
-
+            azure experience installed
+            terraform installed
+            ansible installed
             python3 installed
             nodejs installed
             mssql-server installed
@@ -24,9 +26,9 @@ if (document.getElementsByClassName('demo').length > 0) {
             react installed
             positive-attitude installed
 
-            Installation of Bruce Van Horn metapackage completed successfully.  No need to reboot.
+            Installation of Bruce Van Horn 2.0.0 metapackage completed successfully.  No need to reboot.
 `;
-  var speed = 60;
+  const speed = 60;
 
   function typeItOut () {
     if (i < txt.length) {
