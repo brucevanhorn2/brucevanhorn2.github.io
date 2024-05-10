@@ -11,7 +11,7 @@ I love my work, and I am seeking a role where I get to mentor developers and lev
 
 ## Experience
 
-### Principal Software Engineer / Advanced Scrum Master (A-CSM) 
+### <a href="https://www.glassdoor.com/Career/principal-software-engineer-career_KO0,27.htm" target="_blank">Principal Software Engineer</a> / Advanced Scrum Master (A-CSM) 
 Visual Storage Intelligence (Clear Technologies)
 2013-Present
 Former Titles:  Lead Developer, Distinguished Engineer, Advanced Certified Scrum Master
