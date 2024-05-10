@@ -301,16 +301,16 @@ table td:first-child {
   padding: 2rem;
   color: white;
 }
-ul {
-  list-style-type: none; /* Remove default bullets */
-  padding-left: 20px; /* Adjust as needed */
+.general-ul {
+  list-style-type: none;
+  padding-left: 20px;
 }
 
-ul > li {
+.lambda-list-item {
   position: relative;
 }
 
-ul > li::before {
+.lambda-list-item::before {
   content: "λ ";
   position: absolute;
   left: -15px;
