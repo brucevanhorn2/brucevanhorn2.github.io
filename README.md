@@ -1,10 +1,5 @@
 # Bruce M. Van Horn II
 
-## Home Address: 
-14917 Knollview Drive, Dallas, Texas  75248
-
-## Mobile: 
-469-996-3276
 ## E-Mail: 
 actual@contentfour.com
 
