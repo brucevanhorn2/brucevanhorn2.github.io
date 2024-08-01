@@ -113,8 +113,8 @@ I am a published author, graphic artist, animator, and illustrator in both print
 * 1991 University of Oklahoma, BA, Psychology (Awarded)
 
 ## URLs:
-
-https://www.linkedin.com/in/brucevanhorn2/
-https://github.com/brucevanhorn2
-https://www.maddevskilz.com
-https://csharppatterns.dev
+* https://brucevanhorn2.github.io/
+* https://www.linkedin.com/in/brucevanhorn2/
+* https://github.com/brucevanhorn2
+* https://www.maddevskilz.com
+* https://csharppatterns.dev
