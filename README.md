@@ -11,7 +11,7 @@ I love my work, and I am seeking a role where I get to mentor developers and lev
 
 ## Experience
 
-### <a href="https://www.glassdoor.com/Career/principal-software-engineer-career_KO0,27.htm" target="_blank">Principal Software Engineer</a> / <a href="https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster" target="_blank">Advanced Scrum Master (A-CSM)</a>
+### <a href="https://www.glassdoor.com/Career/principal-software-engineer-career_KO0,27.htm" target="_blank">Principal Software Engineering Manager</a> / <a href="https://www.scrumalliance.org/get-certified/scrum-master-track/advanced-certified-scrummaster" target="_blank">Advanced Scrum Master (A-CSM)</a>
 Visual One Intelligence (Clear Technologies)
 2013-Present
 Former Titles:  Lead Developer, Distinguished Engineer, Advanced Certified Scrum Master
@@ -61,6 +61,7 @@ One Network Enterprises
 One Network is a software company specializing in logistics and inventory management solutions.  My role was as a Senior Software Engineer developing custom software applications for One Network's government clients using the One Network Platform and Studio, Java, and Oracle.  I worked on projects for the custom development group - mainly the United States Marine Corps PM Ammo group on the Ordinance Information System -- Marine Corps (OIS-MC) project. During my tenure I also worked on One Network's platform product.
 
 * I developed a module for the OIS-MC software project which allowed Marines to manage ammunition inventory and logistics in the field.  In other words, I built the consumer facing part of the supply chain software.
+* This project represented a migration from green-screen terminal based software written in the late 1980s to a modern application.
 * I leveraged my development skills in Java, JavaScript, and Oracle.
 * I participated in daily Scrum meetings and used agile tools and processes to perform my work.
 * I used test driven development (TDD) as a best practice throughout the project.
